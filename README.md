@@ -1,3 +1,11 @@
+> **Statut du dépôt :** cadre conceptuel et feuille de route de recherche.  
+> Ce dépôt ne constitue pas une validation expérimentale ou observationnelle.  
+>  
+> Le pipeline reproductible SCCI-2026, incluant code, tests, données, manifeste SHA-256, figures et manuscrit, est disponible ici :  
+> https://github.com/Pr-Nour-kayad-Mohamed/scci-2026  
+>  
+> Version archivée : https://doi.org/10.5281/zenodo.24362108
+
 # Cadre Unifié SCCI2026 : Verrouillage Topologique, Optimisation PCA des Canaux de Récupération et Dynamique de Non-Équilibre pour l’Ère du Téra-Cycle Quantique
 
 **Auteur :** NOUR KAYAD Mohamed  
